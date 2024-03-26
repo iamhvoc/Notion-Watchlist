@@ -1,5 +1,5 @@
-notion_token = "secret_Mu7csW9slKFJfWyGlVX5PuLAegP6PUMTVSqmDqu4wcK"
+notion_token = "your_token_here"
 
-database_id = "c67e556296d648668784f1ab44261b2f"
+database_id = "your_token_here"
 
-tmdb_token = "9f70a46e44a49bcdabd3fe9f722cabc0"
+tmdb_token = "your_token_here"
